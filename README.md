@@ -7,4 +7,5 @@ We have seen massive changes, particularly in terms of technology, but also in t
 Electronic Electric OEMs already in the Indian market have a great deal to do with post-sales service issues. Battery packs are assured for several years, whilst the service networks are fitted with technicians who are specially qualified to welcome and manage an EV. Wall charging units are often built at the chosen customers’ location by several producers without any extra expense.
 
 This was a group project consisting of 4 members
-this includes 3 different datasets, their respective notebook files and a project report which includes detalied analysis on EV startup in INDIA
+
+this repo includes 3 different datasets, their respective notebook files(please remove the "#" in the beginning of the library names) and a project report which includes detalied analysis on EV startup in INDIA
