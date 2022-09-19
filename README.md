@@ -7,4 +7,4 @@ Electronic Electric OEMs already in the Indian market have a great deal to do wi
 
 This was a group project consisting of 4 members
 
-this repo includes 3 different datasets, their respective notebook files(please remove the "#" in the beginning of the library names) and a project report which includes detalied analysis on EV startup in INDIA
+this repo includes 3 different datasets, their respective notebook files and a project report which includes detalied analysis on EV startup in INDIA
